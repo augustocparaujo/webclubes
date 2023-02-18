@@ -61,4 +61,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT). 
+
+## ERP WEB CLUBS DA ASSOCIAÇÃO ATLETICA BANCO DO BRASIL DE MACAPÁ
+
+Sistema para substituir o sistema legado feito em Delphi e banco de dados SQLServer. Devido a algumas inconsistencia no sistema antigo e a impossibilidade de podermos criar, alterar funções novas no sistema. 
+Escolhemos o Laravel 9x e banco de dados Mysql, assim como Jetstream para controle de acesso assim que ainda será decidido qual metodo usar para as permissões de sistema onde cada colaborador terar acesso ou não a funções e metodos do mesmo. Esta sendo analisando qual a melhorar maneira, para não ter impacto na performace.
